@@ -1,4 +1,4 @@
-ここにはexeと、srcをおいております
+>ここにはexeと、srcをおいております
 解読はできないと思います。
-discord link
+>discord link
 > https://discord.gg/test
