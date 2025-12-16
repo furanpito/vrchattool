@@ -2,4 +2,4 @@
 解読はできないと思います。
 
 discord link
-https://discord.gg/test
+https://discord.gg/u4bXtnhDWt
